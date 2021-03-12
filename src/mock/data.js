@@ -9,10 +9,10 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
-  subtitle: '',
-  cta: '',
+  title: 'Hi, welcome to my personal profile page',
+  name: 'I am Dmitri Adriaanse',
+  subtitle: 'Fullstack JavaScript Developer',
+  cta: 'Scroll down to discover more..',
 };
 
 // ABOUT DATA
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://www.linkedin.com/in/dmitri-adriaanse-cert-he-open-29412a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_resumebuilder%3BJGXxJYAzS4aNMB0mxIL15A%3D%3D', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
